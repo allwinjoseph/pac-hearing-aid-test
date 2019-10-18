@@ -1,0 +1,482 @@
+h2, li, p
+{
+	font-family: 'Roboto', sans-serif;
+}
+h3
+{
+		font-family: 'Poppins', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+.logo
+{
+  padding:10px;
+}
+.call li
+{
+  display: inline-block;
+  padding:2px;
+
+}
+.call
+{
+  text-align: center;
+  padding-top:35px;
+
+}
+.call-no
+{
+
+color:#7a7a7a;
+font-size: 18px;
+font-weight:400;
+
+}
+.cal-color
+{
+	color:#054580;
+	font-weight:700;
+}
+.call img
+{
+	height: 22px;
+
+}
+.header {
+ 
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url('/img/banners.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  min-height: 600px;
+    padding-top:45px;
+}
+.sub-title
+{
+font-size:24px;
+font-weight:bold;
+}
+.sub-title1
+{
+	color:#5aa1a9;
+	font-size: 20px;
+	font-weight:400;
+	line-height: 45px;
+	margin-top: 20px;
+
+}
+.ser-high h3
+{
+	color:#fff;
+	font-size: 25px;
+	font-weight:500;
+	line-height: 35px;
+
+}
+.ser-high
+{
+	padding-top:30px;
+}
+.ser-high ul li
+{
+	font-size: 18px;
+	font-weight:400;
+    line-height: 2em;
+}
+.form1
+{
+	    background: rgba(255,255,255,1);
+    border: 1px solid #4d3079;
+    margin: 0;
+    padding: 30px 30px 30px 30px!important;
+    border-radius:5px;
+    margin-top:15px;
+    color:#4a494a;
+}
+.form1 h3
+{
+	font-size:24px;
+	line-height: 1.5em;
+}
+.btn-sec
+{
+	margin-top:45px;
+
+}
+.btn-cus
+{
+	font-weight:bold;
+}
+#about
+{
+	min-height: 350px;
+	padding-top:30px;
+}
+.about-head
+{
+	text-align:center;
+}
+.about-head h2
+{
+	font-size: 35px;
+	font-weight:600;
+	line-height: 35px;
+	color:#000000;
+}
+.about1
+{
+	margin-top: 45px;
+}
+.about-text
+{
+	margin-top: 20px;
+}
+.about-list li
+{
+	line-height:1.8em;
+	color:#737e86;
+	font-size:18px;
+	font-weight:400;
+}
+.about-list {
+	list-style: none;
+  list-style-image: url('/img/check-1.png');
+
+
+}
+.header-list
+{
+	list-style: none;
+  list-style-image: url('/img/check.png');
+}
+#testi
+{
+	min-height: 300px;
+	background:#E7E7E7;
+	padding:30px 15px;
+}
+.testi-head h2
+{
+	font-weight:600;
+	font-size:35px;
+	color:#000000;
+}
+.testi-img
+{
+	display: block;
+	margin:0px auto;
+}
+.testi-inner
+{
+	padding-top: 18px;
+}
+
+.testi-text p
+{
+	
+	font-size:18px;
+	color:#737373;
+	font-weight:400;
+
+}
+.testi-text h4
+{
+	font-size:18px;
+	font-weight:bold;
+	color:#737373;
+}
+#service
+{
+	min-height: 350px;
+	padding:30px 15px;
+}
+.ser-head h2
+{
+	text-align:center;
+	font-weight:600;
+	font-size:35px;
+	color:#000000;
+}
+.ser-img
+{
+	padding-top: 25px;
+	text-align: center;
+}
+.ser-img img
+{
+	display: block;
+	margin:0px auto;
+}
+.ser-img h3
+{
+	color:#4d3079;
+	font-size:27px;
+	font-weight:600;
+	line-height: 40px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.ser-img p
+{
+
+font-size:19px;
+font-weight: 400;
+color:#7a7a7a;
+line-height: 25px;
+
+}
+#expert
+{
+	padding:60px 0 60px 0;
+background-image: url('/img/hero-bg.jpg');
+background-attachment: scroll;
+background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+.call-icon img
+{
+	display: block;
+	margin:0px auto;
+}
+.title
+{
+	display: none;
+}
+.expert h3
+{
+	color:#fff;
+	font-weight:600;
+	font-size:30px;
+	line-height: 40px;
+}
+.expert a
+{
+	color: #fff;
+	font-size:18px;
+	font-weight:700;
+}
+.expert a:hover
+{
+	text-decoration:none;
+}
+.expert p
+{
+	color:#fff;
+	font-size:18px;
+	font-weight:400;
+	line-height: 25px;
+}
+.expert
+{
+	margin-top:20px;
+}
+#action
+{
+	
+	padding: 20px 0 40px 0;
+}
+.action-head h2
+{
+	text-align:center;
+	font-weight:600;
+	font-size:35px;
+	color:#000000;
+}
+.but-sec
+{
+	padding-top:50px;
+}
+.btn1
+{
+	    border-radius: 0;
+    border: none;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    padding: 12.5px 45px;
+    letter-spacing: 1px;
+    text-align: center;
+    cursor: pointer;
+    background: #4d3079;
+    border-radius: 45px;
+    transition: .25s background ease-in;
+    transition: .1s color linear;
+    display: inline-block;
+    border: 1px solid #4d3079;
+    background: transparent;
+    text-decoration: none;
+    color: #4d3079;
+    font-weight: 600;
+}
+.btn1-col
+{
+	background: #4d3079;
+	color:#fff;
+}
+.app a
+{
+	color:#fff;
+}
+.app a:hover
+{
+	color:#fff;
+}
+.tel a 
+{
+	font-weight:bold;
+}
+#map
+{
+	min-height: 300px;
+	padding:20px 0 20px 0;
+	background: #F3F3F3;
+}
+.map-head h2
+{
+	text-align: center;
+	color:#000000;
+	font-weight:600;
+	font-size:35px;
+	margin-bottom: 20px;
+}
+.loc
+{
+
+	border:5px solid #fff;
+}
+#footer
+{
+	
+	background: #111111;
+	padding:20px 0px 10px 0px;
+
+}
+.fleft p
+{
+	font-size:16px;
+	font-weight:400;
+	line-height: 24px;
+}
+.fleft a 
+{
+	text-decoration:none;
+}
+.fleft
+{
+	padding:30px 0px;
+}
+.office h3
+{
+	margin-top: 5px;
+	font-size:30px;
+}
+.office p
+{
+	font-size:18px;
+	font-weight:400;
+}
+.fleft a
+{
+	font-size:18px;
+}
+.copy-right 
+{
+	padding-top:20px;
+}
+.copy-right p
+{
+	text-align:center;
+	color: #7a7a7a;
+	font-size:18px;
+
+}
+
+@media only screen and (max-width: 800px) {
+ .logo img
+ {
+ 	display: block;
+ 	margin:0px auto;
+ }
+ .sub-title
+ {
+ 	font-size:19px;
+ line-height: 1.5em;
+ text-align:center;
+ }
+ .sub-title1
+ {
+ 	line-height: 1em;
+ }
+ .ser-high h3
+ {
+ 	font-size:20px;
+ }
+ .form1 h3
+ {
+ 	font-size:20px;
+ }
+ .about-head h2
+ {
+ 	font-size:22px;
+ }
+ .testi-head h2 
+ {
+ 	font-size:22px;
+ }
+ .testi-img img
+ {
+ 	display: block;
+ 	margin:0px auto;
+ }
+ .ser-head h2
+ {
+ 	font-size:24px;
+ }
+ .ser-img h3
+ {
+ 	font-size:22px;
+ }
+ .expert h3
+ {
+ 	font-size:23px;
+ }
+ .action-head h2
+ {
+ 	font-size:24px;
+ }
+ .btn1
+ {
+ 	font-size:13px;
+ }
+ .tel a
+ {
+ 	float: none!important;
+ 	text-align: center;
+ }
+  .tel
+  {
+  	text-align:center;
+  	margin-top: 5px;
+  }
+  .map-head h2
+  {
+  	font-size:24px;
+  }
+  .office h3
+  {
+  	font-size: 24px;
+  }
+}
