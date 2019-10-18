@@ -47,7 +47,7 @@ font-weight:400;
  
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.url }}/img/banners.jpg');
+    background-image: url('https://allwinjoseph.github.io/pac-hearing-aid-test/img/banners.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -146,14 +146,14 @@ font-weight:bold;
 }
 .about-list {
 	list-style: none;
-  list-style-image: url('/img/check-1.png');
+  list-style-image: url('https://allwinjoseph.github.io/pac-hearing-aid-test/img/check-1.png');
 
 
 }
 .header-list
 {
 	list-style: none;
-  list-style-image: url('/img/check.png');
+  list-style-image: url('https://allwinjoseph.github.io/pac-hearing-aid-test/img/check.png');
 }
 #testi
 {
@@ -234,7 +234,7 @@ line-height: 25px;
 #expert
 {
 	padding:60px 0 60px 0;
-background-image: url('/img/hero-bg.jpg');
+background-image: url('https://allwinjoseph.github.io/pac-hearing-aid-test/img/hero-bg.jpg');
 background-attachment: scroll;
 background-position: center center;
     background-repeat: none;
