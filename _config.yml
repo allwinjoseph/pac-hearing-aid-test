@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hearing Evaluation | Preferred Audiology Care
+title: Hearing Aid Fitting | Preferred Audiology Care
 email: your-email@example.com
 description: 'Hearing healthcareprofessionals dedicated to helping you get more out of life. Best hearing aids, hearing tests, hearing aid repair and service, audiology in Camillus, NY. Call today..'
 baseurl: '' # the subpath of your site, e.g. /blog
